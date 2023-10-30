@@ -205,4 +205,4 @@ At King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmut
 
 ## Week 9 - Midterm Project Competition
 
-In Week 10, students will have the opportunity to showcase their House Keeper Robot projects and other accomplishments in the Midterm Project competition.
+In Week 9, We have the opportunity to showcase Housekeeper Robot projects in the Midterm Project competition.
