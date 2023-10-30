@@ -37,14 +37,14 @@ This README provides an overview of the project, its purpose, and instructions o
 
 ## About Viewbook
 
-The [Viewbook](/Viewbook.md) is an educational project that compiles information and resources from each week of CPE 101 Engineering Exploration. 
+The [Viewbook](/Draft%20Viewbook/Viewbook.md) is an educational project that compiles information and resources from each week of CPE 101 Engineering Exploration. 
 
 It aims to provide a comprehensive overview of the course content, allowing to review and revise key topics.
 
 ## Project Structure
 
 - **Weeks**
-    - Each week's content is stored in a separate folder within the repository. Week-specific information, including markdown files and additional resources, can be found [here](/Viewbook.md).
+    - Each week's content is stored in a separate folder within the repository. Week-specific information, including markdown files and additional resources, can be found [here](/Draft%20Viewbook/Viewbook.md).
 
 - **README.md**
     - You are currently viewing the main README file, which provides an overview of the project.
