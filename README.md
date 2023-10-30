@@ -15,6 +15,26 @@ This README provides an overview of the project, its purpose, and instructions o
             - CPE 101 - Engineering Exploration [(Syllabus)](https://drive.google.com/file/d/1q8DzZ1vEUM5RS1FiopvX1kUsBls0Rmtl/view)
                 - [Viewbook](https://github.com/LuXeVi1/Bit6_Viewbook)
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Education](#education)
+3. [Development team](#development-team)
+4. [About Viewbook](#about-viewbook)
+5. [Project Structure](#project-structure)
+6. [How to Use](#how-to-use)
+7. [Contributing](#contributing)
+8. [License](#license)
+
+## Development team : Bit6
+
+| Full name             | ID            | Email                             | GitHub User|
+| -                     | -             | -                                 | -         |
+| Arkkhanirut Pandej    | 66070501062   | <arkkhanirut.pand@kmutt.ac.th>    |[@LuXeVi1](https://github.com/LuXeVi1)|
+| Srisuphadith Rattanaprasert        | 66070501052    | <srisuphadith.ratt@kmutt.ac.th>        |[@Srisuphadith](https://github.com/Srisuphadith)|
+| Khunnapat Aubontara     | 66070501068    | <khunnapat.aubo@mail.kmutt.ac.th>       | [@omgnatggboy](https://github.com/omgnatggboy)|
+| Yanakorn Tangprakhon | 66070501071   | <yanakorn.tang@mail.kmutt.ac.th>         |[@FiFaKuBz](https://github.com/FiFaKuBz)|
+
+
 ## About Viewbook
 
 The [Viewbook](/Viewbook.md) is an educational project that compiles information and resources from each week of CPE 101 Engineering Exploration. 
@@ -23,9 +43,11 @@ It aims to provide a comprehensive overview of the course content, allowing to r
 
 ## Project Structure
 
-- **Weeks**: Each week's content is stored in a separate folder within the repository. Week-specific information, including markdown files and additional resources, can be found [here](/Viewbook.md).
+- **Weeks**
+    - Each week's content is stored in a separate folder within the repository. Week-specific information, including markdown files and additional resources, can be found [here](/Viewbook.md).
 
-- **README.md**: You are currently viewing the main README file, which provides an overview of the project.
+- **README.md**
+    - You are currently viewing the main README file, which provides an overview of the project.
 
 ## How to Use
 
